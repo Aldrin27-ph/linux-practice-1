@@ -16,3 +16,4 @@ Created a folder `my_first_linux_project` and a file `readme.txt` to practice Li
 - Navigating directories
 - Creating and editing files
 - Understanding basic permissions
+
