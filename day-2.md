@@ -1,4 +1,4 @@
-Day 2 of my Linux learning journey on the road to becoming a Cloud Engineer.
+## Day 2 of my Linux learning journey on the road to becoming a Cloud Engineer.
 Topics covered:
 
 Creating multiple directories using mkdir -p
