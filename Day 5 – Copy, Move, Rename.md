@@ -45,5 +45,5 @@ bash
 Copy code
 
 # Move or Copy and Rename a File Command Example
-mv file.txt /home/aldrin_john/day5/newfile.txt
-cp file.txt /home/aldrin_john/day5/newfile.txt
+- mv file.txt /home/aldrin_john/day5/newfile.txt
+- cp file.txt /home/aldrin_john/day5/newfile.txt
