@@ -27,7 +27,7 @@ The `cp` command is used to **copy files or directories**. It is useful for back
 - You can rename files while copying.  
 
 
-# Copy and rename a file
+# Move Command and Rename File or Directories
 cp file.txt /home/aldrin_john/day5/newfile.txt
 mv Command
 The mv command allows you to move or rename files and directories.
