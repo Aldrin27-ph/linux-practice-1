@@ -27,9 +27,6 @@ The `cp` command is used to **copy files or directories**. It is useful for back
 - You can rename files while copying.  
 
 
-### Example
-
-```bash
 # Copy and rename a file
 cp file.txt /home/aldrin_john/day5/newfile.txt
 mv Command
@@ -46,5 +43,6 @@ Original permissions and timestamps are preserved automatically.
 Example
 bash
 Copy code
+
 # Move and rename a file
 mv file.txt /home/aldrin_john/day5/newfile.txt
